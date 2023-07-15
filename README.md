@@ -2,7 +2,7 @@
 HIT Deep Learning Project - Detecting COVID-19 and Other Respiratory Conditions Using Deep Learning Image Classification on Chest X-Ray Scans
 using PyTorch.
 
-Project Description
+**Project Description:**
 **The research problem and objective** of this project is, whether we can identify COVID-19 positive cases, Lung Opacity cases, Viral Pneumonia cases or Normal cases using deep learning image classification model on Chest X-Ray (CXR) scans with a reasonably high accuracy.
 
 **The dataset: "COVID-19 Radiography Database"** taken from Kaggle - https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
